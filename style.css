@@ -24,3 +24,10 @@ p {
 li {
   font-size: 14px;
 }
+.post {
+border: 10px ridge royalblue;
+background-color: lightskyblue;
+text-align: center;
+width: 300px;
+height: 300px;
+}
