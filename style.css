@@ -6,7 +6,9 @@ body,
   box-sizing: border-box;
 }
 body {
-  background-image: "aaaa.jpg";
+  background-image: url(aaaa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   font-family: "Sina Nova", "Arial";
