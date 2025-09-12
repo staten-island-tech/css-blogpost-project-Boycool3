@@ -11,12 +11,14 @@ body {
   background-size: cover;
 }
 h1 {
+  background-color: antiquewhite;
+  font-family: 'SinaNovaW01-Regular';
   font-size: 24px;
   text-align: center;
   margin: 45px;
 }
 p {
-  font-family: 'Sina Nova W01 Regular', Arial;
+  font-family: 'SinaNovaW01-Regular', Arial;
   font-size: 14px;
 }
 li {
