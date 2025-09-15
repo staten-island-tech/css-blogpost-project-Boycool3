@@ -11,7 +11,9 @@ body {
   background-size: cover;
 }
 h1 {
-  background-color: antiquewhite;
+  background-color: rgb(39, 33, 33);
+  border: 5px ridge rgb(19, 17, 17);
+  color: aliceblue;
   font-family: 'SinaNovaW01-Regular';
   font-size: 24px;
   text-align: center;
